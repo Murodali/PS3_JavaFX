@@ -4,6 +4,9 @@
       <root url="file://$PATH_TO_JAVAFX$" />
     </CLASSES>
     <JAVADOC />
+    <NATIVE>
+      <root url="file://$PATH_TO_JAVAFX$" />
+    </NATIVE>
     <SOURCES>
       <root url="file://$PATH_TO_JAVAFX$" />
     </SOURCES>
